@@ -1,0 +1,103 @@
+[
+  {
+    "name": "JobseekerSessionId",
+    "value": "3952a82f-1fec-4f98-a0a7-35a64682743d",
+    "domain": ".jobsdb.com",
+    "path": "/",
+    "expires": 1742704904.793176,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "JobseekerVisitorId",
+    "value": "3952a82f-1fec-4f98-a0a7-35a64682743d",
+    "domain": ".jobsdb.com",
+    "path": "/",
+    "expires": 1746160904.793317,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "__cf_bm",
+    "value": "cNG0Wt6BfJD8jX5KDXjr5YoI1o9cYVvuFcH8oRKDB9o-1711600905-1.0.1.1-evs43qU3.WwsOHiIamEcjroPr5OFXsQLVmHlxaKjOlma2MmKduZdV_rnvaxXntymRVZH7rwX6QjpGJxATFv0Bw",
+    "domain": ".jobsdb.com",
+    "path": "/",
+    "expires": 1711602703.793366,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "sol_id",
+    "value": "e07e9034-df44-4594-a04e-fca812738dd5",
+    "domain": ".jobsdb.com",
+    "path": "/",
+    "expires": 1743136913,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "da_cdt",
+    "value": "visid_018e835d2f50001e6cee40973d6b0506f002b06700bd0-sesid_1711600906065",
+    "domain": ".jobsdb.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_legacy_auth0.s4xKhkaQlScs656DuHcvEJnbDU3W5Mkn.is.authenticated",
+    "value": "true",
+    "domain": "hk.jobsdb.com",
+    "path": "/",
+    "expires": 1711687306,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "auth0.s4xKhkaQlScs656DuHcvEJnbDU3W5Mkn.is.authenticated",
+    "value": "true",
+    "domain": "hk.jobsdb.com",
+    "path": "/",
+    "expires": 1711687306,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "da_sa_candi_sid",
+    "value": "1711600906065",
+    "domain": ".jobsdb.com",
+    "path": "/",
+    "expires": 1711602713.444246,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "last-known-sol-user-id",
+    "value": "5fa7d5bdefdf1f86905aa0675febb1de88c8019b55bc4ceb605597a1d83083506f99c1427d05f4dc77a122535434008f31fe62af386dc50ccce66098ea21e6f4e1492c701ac5d14fd8ba84c45ca84395a7022324bfa249b614535c4a93fe2115645eb825573e65fa529241dc2a8b548017fe3664359d0a1539bda6700f2dba2c105b479724382b620a70462b2e15925204f1ce86a56c7ff26b4c212a86d6e596473c3fc5e0b7e1",
+    "domain": "hk.jobsdb.com",
+    "path": "/",
+    "expires": 1719376913,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "utag_main",
+    "value": "v_id:018e835d2f50001e6cee40973d6b0506f002b06700bd0$_sn:1$_se:3%3Bexp-session$_ss:0%3Bexp-session$_st:1711602713442%3Bexp-session$ses_id:1711600906065%3Bexp-session$_pn:2%3Bexp-session$_prevpage:home%3Bexp-1711604513451$dc_visit:1$dc_event:3%3Bexp-session",
+    "domain": ".jobsdb.com",
+    "path": "/",
+    "expires": 1743136913,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_dd_s",
+    "value": "rum=0&expire=1711601909768",
+    "domain": "hk.jobsdb.com",
+    "path": "/",
+    "expires": 1711601913,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Strict"
+  }
+]

@@ -1,0 +1,11 @@
+# obsoleted, it is due to the project originally develop using jupyter
+services:
+  fetch_machine:
+    build: jupyter-findjob-tryout
+    volumes:
+      - ./jupyter-findjob-tryout:/app
+    ports:
+      - 8888:8888
+    working_dir: /app
+    entrypoint: sleep infinity
+    env_file: .env
